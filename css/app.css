@@ -1,0 +1,37 @@
+body {
+
+  	background: #e7e8e9;
+  	color: #414042;
+  	font-family: 'Roboto', Arial, sans-serif;
+}
+
+a {
+
+  	color: #2eb3c3;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+
+	color: #414042;
+	font-family: 'Roboto', Arial, sans-serif;
+	font-weight: 700;
+}
+
+
+.panel {
+	background: #f9f9f9;
+  	border-style: none;
+}
+
+hr {
+  border: solid #2eb3c3;
+  border-width: 1px 0 0;
+}
+
+.icon-bar {
+	background: #e7e8e9;
+}
+.icon-bar > a:hover {
+    background: #f9f9f9;
+}
